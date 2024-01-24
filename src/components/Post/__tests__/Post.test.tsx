@@ -2,8 +2,8 @@ import { render, screen } from '@testing-library/react';
 import Post from '..';
 import App from '../../../App';
 
-describe('Teste para o componente PostComment', () => {
-    test('Deve renderizar o componente corretamente', () => {
+describe('Teste para o componente Post', () => {
+    test('Deve renderizar o componente Post corretamente', () => {
         const {debug} = render(<App />)
         expect(screen.getByTestId('post')).toBeInTheDocument();
         debug();
