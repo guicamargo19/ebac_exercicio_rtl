@@ -1,6 +1,5 @@
 class Comment {
     id: number;
-
     comment: string;
 
     constructor (id: number, comment: string) {
