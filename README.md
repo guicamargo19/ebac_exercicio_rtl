@@ -1,4 +1,4 @@
-# Exercício de inserção e configuração de testes em componentes
+# Exercício de inserção e configuração de testes
 
 - Teste realizado na inserção de 2 comentários em um Post já existente.
 - Teste realizados na inserção de um novo Post.
