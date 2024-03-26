@@ -1,7 +1,8 @@
-# Exercício de inserção e configuração de testes
+# Testes
 
-- Teste realizado na inserção de 2 comentários em um Post já existente.
-- Teste realizados na inserção de um novo Post.
+Testes realizados com **React Testing Library**.
+  - Inserção de 2 comentários em um Post já existente.
+  - Inserção de um novo Post.
 
 ## 🚀 Começando
 
@@ -28,18 +29,20 @@ Siga estas etapas a seguir para configurar o ambiente de desenvolvimento:
 
 Para executar o projeto, execute o comando:
 
-`npm start`
+  **``npm start``**
 
 ## Para executar os testes
     
-`npm run test` ou `yarn test`
+  **``npm run test``**
+  ou
+  **``yarn test``**
 
+## 🛠️ Ferramentas utilizadas para construção do projeto
 
-## 🛠️Ferramentas utilizadas para construção do projeto
-
-* **React** - Biblioteca JavaScript para criar interfaces de usuário.
-* **React-Redux** - Biblioteca JavaScript para gerenciamento de estado em aplicações.
-* **Jest** - Framework para testes JavaScript.
+* **ReactJS** - Biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+* **Redux** - É uma biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo.
+* **CSS Modules** -  São arquivos CSS em que os classNames e animações são definidos localmente e não globalmente.
+* **Jest** - Framework de teste em JavaScript projetado para garantir a correção de qualquer código JavaScript.
 
 ## ✒️ Autor
 
