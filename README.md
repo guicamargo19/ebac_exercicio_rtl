@@ -1,4 +1,4 @@
-# Testes
+# Testes com Jest
 
 Testes realizados com **React Testing Library**.
   - Inserção de 2 comentários em um Post já existente.
